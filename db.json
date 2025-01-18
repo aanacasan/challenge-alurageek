@@ -1,0 +1,82 @@
+{
+  "produtos": [
+    {
+      "nome": "Denji Action Figure",
+      "preco": "1499,00",
+      "imagem": "action1.jpg",
+      "id": "1"
+    },
+    {
+      "nome": "Makima Action Figure",
+      "preco": "1200,00",
+      "imagem": "action2.jpg",
+      "id": "2"
+    },
+    {
+      "nome": "Almofada Chainsaw Man",
+      "preco": "49,90",
+      "imagem": "almofada.jpeg",
+      "id": "3"
+    },
+    {
+      "nome": "Ecobag Chainsaw Man",
+      "preco": "34,90",
+      "imagem": "ecobag.jpeg",
+      "id": "4"
+    },
+    {
+      "nome": "Caneca Aki Hayakawa",
+      "preco": "29,90",
+      "imagem": "caneca.jpeg",
+      "id": "5"
+    },
+    {
+      "nome": "Chaveiro Chainsaw Man",
+      "preco": "12,90",
+      "imagem": "chaveiro.jpeg",
+      "id": "6"
+    },
+    {
+      "nome": "Copo Pochita's Coffee",
+      "preco": "22,90",
+      "imagem": "copo.png",
+      "id": "7"
+    },
+    {
+      "nome": "Pelúcia Pochita",
+      "preco": "49,90",
+      "imagem": "pelucia.jpg",
+      "id": "8"
+    },
+    {
+      "nome": "Caneca Pochita",
+      "preco": "29,90",
+      "imagem": "pochita.jpg",
+      "id": "9"
+    },
+    {
+      "id": "ddef",
+      "nome": "Pelúcia Pochita",
+      "preco": "49,90",
+      "imagem": "pelucia.jpg"
+    },
+    {
+      "id": "0eb1",
+      "nome": "",
+      "preco": "",
+      "imagem": ""
+    },
+    {
+      "id": "a1b2",
+      "nome": "",
+      "preco": "",
+      "imagem": ""
+    },
+    {
+      "id": "2c36",
+      "nome": "Pelúcia Pochita",
+      "preco": "49,90",
+      "imagem": "pelucia.jpg"
+    }
+  ]
+}

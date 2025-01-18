@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jersey+15&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="imagem/botaodireita.png" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Alura Geek Store</title>
+  </head>
+  <body>
+    <header class="header">
+      <img
+        src="imagem/botaoesquerda.png"
+        alt="Imagem de botão de jogo"
+        class="logo"
+      />
+      <h1>Alura Geek Store</h1>
+      <img
+        src="imagem/botaodireita.png"
+        alt="Imagem de botão de jogo"
+        class="logo"
+      />
+    </header>
+    <main>
+      <section class="produtos-container">
+        <h1>Meus Produtos</h1>
+        <div class="mensagem-vazia">Nenhum produto foi adicionado</div>
+        <div class="produtos"></div>
+      </section>
+      <section class="formulario">
+        <h2>Adicionar Produto:</h2>
+        <form data-lista>
+          <input type="text" placeholder="Nome do produto" />
+          <input type="text" placeholder="Valor" />
+          <input type="text" placeholder="Imagem" />
+          <button type="submit">Guardar</button>
+          <button type="reset">Limpar</button>
+        </form>
+      </section>
+    </main>
+    <footer class="rodape">
+      <img
+        src="imagem/botaoesquerda.png"
+        alt="Imagem de botão de jogo"
+        class="logo"
+      />
+      <p>Desenvolvido por Ana Caroline</p>
+      <h6>2025 Alura Geek Store</h6>
+    </footer>
+    <script src="./js/mostrarProdutos.js" type="module"></script>
+  </body>
+</html>
