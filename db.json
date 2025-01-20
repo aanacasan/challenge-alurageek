@@ -53,30 +53,6 @@
       "preco": "29,90",
       "imagem": "pochita.jpg",
       "id": "9"
-    },
-    {
-      "id": "ddef",
-      "nome": "Pelúcia Pochita",
-      "preco": "49,90",
-      "imagem": "pelucia.jpg"
-    },
-    {
-      "id": "0eb1",
-      "nome": "",
-      "preco": "",
-      "imagem": ""
-    },
-    {
-      "id": "a1b2",
-      "nome": "",
-      "preco": "",
-      "imagem": ""
-    },
-    {
-      "id": "2c36",
-      "nome": "Pelúcia Pochita",
-      "preco": "49,90",
-      "imagem": "pelucia.jpg"
     }
   ]
 }
